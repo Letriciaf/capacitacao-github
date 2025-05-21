@@ -1,12 +1,12 @@
 ---
-role: Seu Nome 
+role: Leticia Ferreira  
 weight: 18
-email: "seuemail@email.com"
+email: "leticiaf.ufsc@gmail.com"
 interests:
--
--
--
--
+- Melhoramento genético
+- Biotecnologia 
+- Bioinformática 
+- Cultura de tecidos
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
@@ -18,7 +18,7 @@ social:
   
 - icon: lattes
   icon_pack: ai
-  link: seu lattes
+  link:  http://lattes.cnpq.br/6878706298203233
   
 - icon: researchgate
   icon_pack: ai
@@ -26,11 +26,11 @@ social:
   
 - icon: github
   icon_pack: fab
-  link: seu github
+  link: Letriciaf
   
 - icon: linkedin-in
   icon_pack: fab
-  link: seu linkedin # se você não tem exclua isso tudo
+  link: www.linkedin.com/in/letícia-ferreira2405
   
 user_groups:
 - Estudantes de Graduação
